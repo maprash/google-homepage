@@ -1,0 +1,22 @@
+
+
+
+
+
+
+button {
+		
+		color : black ;
+		}
+div.footer {
+	background-color: grey
+	
+	}
+		
+p{
+	color: grey ;
+	position: absolute;
+	left: 20px; 
+	bottom: 10px;
+	word-spacing: 30px ;
+	}
